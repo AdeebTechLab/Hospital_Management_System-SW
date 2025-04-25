@@ -1,0 +1,12 @@
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\bin\Debug\Hospital MS.exe.config
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\bin\Debug\Hospital MS.exe
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\bin\Debug\Hospital MS.pdb
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\obj\Debug\Hospital MS.csproj.AssemblyReference.cache
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\obj\Debug\Hospital_MS.Form1.resources
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\obj\Debug\Hospital_MS.Properties.Resources.resources
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\obj\Debug\Hospital MS.csproj.GenerateResource.cache
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\obj\Debug\Hospital MS.csproj.CoreCompileInputs.cache
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\obj\Debug\Hospital MS.exe
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\obj\Debug\Hospital MS.pdb
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\obj\Debug\Hospital_MS.Login.resources
+F:\Projects\Softwares\Hospital Management System\Hospital MS\Hospital MS\bin\Debug\db_users.mdb
